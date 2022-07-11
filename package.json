@@ -1,0 +1,31 @@
+{
+  "name": "lib-markdown",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "./cli.js",
+  "scripts": {
+    "test": "jest ./test",
+    "cli": "node cli.js ./arquivos/texto1.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.6",
+    "nvm": "^0.0.4",
+    "require": "^0.4.4"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "babel-jest": "^28.1.2",
+    "jest": "^28.1.2"
+  }
+}
