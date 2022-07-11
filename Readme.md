@@ -16,6 +16,6 @@ Resultado:
 <p align="center">
   <img alt="Node" src="npmrunclivalidar.png">
 
-Resultado:
+Node Jest Test:
 <p align="center">
   <img alt="NodeJest" src="jestest.png">
