@@ -9,5 +9,13 @@ Crie seus próprios comandos para serem executados no terminal
 Use as bibliotecas do NodeJS para fazer requisições HTTP e manejar respostas
 Faça seus primeiros testes de unidade com Jest
 
-`npm run cli`
+`npm run cli validar`
 `npm run teste`
+
+Resultado:
+<p align="center">
+  <img alt="Node" src="npmrunclivalidar.png">
+
+Resultado:
+<p align="center">
+  <img alt="NodeJest" src="jestest.png">
